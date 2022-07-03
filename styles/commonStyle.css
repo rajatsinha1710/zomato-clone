@@ -1,0 +1,16 @@
+.max-width{
+    max-width: 1100px;
+    margin: 0px auto;
+}
+.absolute-centre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+a{
+    text-decoration: none;
+}
